@@ -8,7 +8,7 @@ This project was completed as part of my Data Science internship at PRODIGY. The
   
 The dataset contains details of marketing campaigns carried out by the bank. Each row corresponds to a client, with various attributes recorded. The classification target is to predict whether the client subscribed to a term deposit (binary classification).
 
-*Key Features:
+* Key Features:
 
 age: Age of the client.
 job: Type of job (e.g., admin, blue-collar, entrepreneur).
