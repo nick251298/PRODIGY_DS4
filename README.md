@@ -59,16 +59,4 @@ Pandas: Data manipulation and preprocessing.
 Scikit-learn: Decision tree modeling and evaluation.
 Seaborn & Matplotlib: Data visualization (heatmaps, correlation matrices, decision tree plots)
 
-* How to Run the Code
-Clone the repository to your local machine:
-bash
-Copy code
-git clone https://github.com/yourusername/PRODIGY_DS_01.git
-Install the required dependencies:
-bash
-Copy code
-pip install -r requirements.txt
-Open the Jupyter Notebook or Python file (T4.ipynb) to review the code and run the analysis:
-bash
-Copy code
-jupyter notebook T4.ipynb
+
